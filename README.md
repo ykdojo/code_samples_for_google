@@ -1,4 +1,4 @@
-# Hello, Googlers!
+# Welcome, Googlers!
 ### Please take a look at some of my code samples below.
 
 - Please note that these are mainly small, personal projects.  So I would significantlly refine the code in each of the projects if I were to bring it to production.
