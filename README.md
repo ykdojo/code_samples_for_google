@@ -7,4 +7,17 @@
 
 # Now, here are my code samples!
 
-### 1. [March Madness Prediction](https://github.com/yosukesugishita/march_madness/)
+### [1. Spark Implementation of GMM Clustering](https://github.com/yosukesugishita/gmm_clustering)
+I created this as a mini-project for a class. It's a Spark implementation of gaussian mixture model clustering.
+
+It's written so that the code can be distributed on a large scale.
+
+### [2. March Madness Prediction](https://github.com/yosukesugishita/march_madness/)
+I made a least square model for predicting winners of March Madness, the national college basketball tournament in the United States.
+
+I built this model with different types of regularizations (L1 and L2), utilizing Python libraries such as NumPy and matplotlib. I ranked at the 32nd place out of 248 teams at the Kaggle competition.
+
+### [3. YamBomb!](https://github.com/yosukesugishita/yambomb)
+A colleague of mine at Microsoft and I created a gaming app with which a user would send a “bomb” that “explodes” in 24 hours unless they pass it to somebody else.
+
+It started with a few users and organically grew to more than 70 users within a week of its launch. We developed the application with Ruby on Rails and Yammer API.
